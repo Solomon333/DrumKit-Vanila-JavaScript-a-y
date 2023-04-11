@@ -1,4 +1,4 @@
-# DrumKit-javascript
+# DrumKit-vanila-javascript
 
 Enable the user to play drum sound using the keybord and mouse.
 
