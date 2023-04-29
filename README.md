@@ -9,7 +9,7 @@
 
 - switch-case.
 
-= eventlistner- keydown, click.
+- eventlistner- keydown, click.
 
 - for loop.
 
