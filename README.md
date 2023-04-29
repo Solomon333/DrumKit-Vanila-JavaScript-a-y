@@ -5,7 +5,7 @@
 
 - javaScript drum sound kit.
 
-. dom manipulation.
+- DOM manipulation.
 
 - switch-case.
 
