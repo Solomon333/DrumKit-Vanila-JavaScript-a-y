@@ -1,4 +1,4 @@
- DrumKit-weApp
+ DrumKit-App
 
 
 - the user to play drum sound using the keybord and mouse.
