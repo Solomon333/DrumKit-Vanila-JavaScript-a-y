@@ -3,7 +3,7 @@
 
 - Play drum sound using the keybord and mouse.
 
-- javaScript drum sound kit.
+- JavaScript drum sound kit.
 
 - DOM manipulation.
 
