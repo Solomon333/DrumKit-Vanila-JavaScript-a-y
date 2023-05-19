@@ -7,10 +7,10 @@
 
 - DOM manipulation.
 
-- switch-case.
+- Switch-case.
 
 - Eventlistner- keydown, click.
 
-- for loop.
+- For loop.
 
 
