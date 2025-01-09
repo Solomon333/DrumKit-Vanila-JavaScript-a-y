@@ -1,7 +1,7 @@
  DrumKit-App :
 
 
-- Play drum sound using the keybord and mouse.
+- Play drum sound using the keybord and mouse
 
 - JavaScript drum sound kit.
 
