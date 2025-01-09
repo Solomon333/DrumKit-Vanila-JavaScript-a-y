@@ -3,7 +3,7 @@
 
 - Play drum sound using the keybord and mouse
 
-- JavaScript drum sound kit.
+- JavaScript drum sound kit
 
 - DOM manipulation. Switch-case.
 
