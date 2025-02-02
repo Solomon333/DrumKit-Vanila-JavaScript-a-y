@@ -1,7 +1,8 @@
  DrumKit-App :
 
 
-- Play drum sound
+- Play drum sound/
+- 
 - using the keybord and mouse
 
 - JavaScript
