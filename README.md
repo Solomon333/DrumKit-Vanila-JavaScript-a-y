@@ -7,7 +7,8 @@
 - JavaScript
 - drum sound kit
 
-- DOM manipulation
+- DOM manipulation.
+- 
 - Switch-case
 
 - Eventlistner- keydown
