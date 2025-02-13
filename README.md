@@ -5,7 +5,7 @@
 - 
 - using the keybord and mouse
 
-- JavaScript/
+- JavaScript
 - 
 - drum sound kit
 
