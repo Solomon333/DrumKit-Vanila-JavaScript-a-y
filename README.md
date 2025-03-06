@@ -1,13 +1,10 @@
  DrumKit-App :
 
 
-- Play drum sound
-- 
+- Play drum sound 
 - using the keybord and mouse
-
 - JavaScript
 - drum sound kit
-
 - DOM manipulation.
 - 
 - Switch-case
