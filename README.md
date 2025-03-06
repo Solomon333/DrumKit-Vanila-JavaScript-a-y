@@ -6,7 +6,6 @@
 - using the keybord and mouse
 
 - JavaScript
-- 
 - drum sound kit
 
 - DOM manipulation.
