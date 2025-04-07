@@ -5,7 +5,7 @@
 - JavaScript 
 - drum sound kit 
 - DOM manipulation 
-- Switch-case /
+- Switch-case 
 - Eventlistner- keydown 
 -  click For loop /
 
