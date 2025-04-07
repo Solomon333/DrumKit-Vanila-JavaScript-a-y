@@ -7,6 +7,6 @@
 - DOM manipulation 
 - Switch-case 
 - Eventlistner- keydown 
--  click For loop /
+-  click For loop 
 
 
